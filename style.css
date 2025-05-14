@@ -35,3 +35,23 @@ html, body {
     width: 300%; 
   }
   
+   position: relative;
+      display: inline-block;
+    }
+
+    .bandeau img {
+      display: block;
+      width: 100%; /* ou fixe ex: 600px */
+      height: auto;
+    }
+
+    .texte-sur-image {
+      position: absolute;
+      bottom: 0; /* ou "top: 0;" pour le placer en haut */
+      width: 100%;
+      background: rgba(0, 0, 0, 0.5); /* bandeau semi-transparent */
+      color: white;
+      text-align: center;
+      padding: 10px;
+      font-size: 1.5em;
+    }
