@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+    width: 100%; 
+  }
+  
+  
+  p{
+    color:#ff00f0;
+    margin-right:15px;
+  }
+   body{
+    background-image:url("arplan.jpg") ;
+    width:100%;
+     background-position:center;
+     background-size:cover;
+       background-repeat:no-repeat;
+   
+    }
+  
+  h1{
+   color:blue;
+    border: 5px dotted red ;
+   display: flex;
+   justify-self: center;
+  }
+
+  #red{
+    text-align: right
+  }
+  
+   a{
+    text-decoration:none;
+  }
+  
+  
+  #img{
+   height: 300%;
+    width: 300%; 
+  }
+  
