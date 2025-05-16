@@ -1,7 +1,4 @@
-html, body {
-    height: 100%;
-    width: 100%; 
-  }
+
   
   
   p{
@@ -51,10 +48,8 @@ element.style {
 .accueil-introduction div {
     padding-right: 80px;
 }
-* {
-    margin: 0;
-}
-user agent stylesheet
+
+
 div {
     display: block;
     unicode-bidi: isolate;
