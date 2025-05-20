@@ -62,13 +62,13 @@ body {
 
 
 
-.l2{z-index:2;
+l2{z-index:2;
    position:absolute;
    top:0;
    left:0}
 
 
-.l1{z-index:1;
+l1{z-index:1;
    position:absolute;
    top:0;
    left:0}
